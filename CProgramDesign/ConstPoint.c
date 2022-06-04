@@ -1,7 +1,11 @@
 #include<stdio.h>
 #include<string.h>
 
-int main()
+/// <summary>
+/// 比较const* 指针与 int a[] 数组的区别
+/// </summary>
+/// <returns></returns>
+int ConstPoint()
 
 {
 
