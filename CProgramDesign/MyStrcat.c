@@ -14,7 +14,7 @@ char* my_strcat(char* dst, const char* src) {
 }
 
 int
-main() {
+test_strcat() {
 	char s1[] = "hello ";
 	char s2[] = "students!";
 	char* p = (char*)malloc(strlen(s1) + strlen(s2) + 1);
